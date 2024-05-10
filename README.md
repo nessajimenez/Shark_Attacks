@@ -27,7 +27,7 @@ Instructions for using the code and examples of how to run it.
 python main.py --input input_file.txt --output output_file.txt
 ```
 
-**Features/Functionalities:**
+## Features/Functionalities
 
 1. **Data Exploration and Hypothesis Formulation:**
    - Utilizes exploratory data analysis techniques to understand the structure and content of the Shark Attack dataset.
