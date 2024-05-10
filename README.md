@@ -52,7 +52,3 @@ python main.py --input input_file.txt --output output_file.txt
 6. **Usage Instructions:**
    - Provides clear instructions for running the code, including installation steps and examples of command-line usage.
    - Includes sample input data and expected output to demonstrate the functionality of the code.
-
----
-
-IronHacks Unit 2 Project
